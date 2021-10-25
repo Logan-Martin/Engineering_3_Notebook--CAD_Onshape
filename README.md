@@ -27,6 +27,8 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(3).gif" width="450" height="300"> <!-- Image/Gif -->
 
+*Gif of the skateboard I made*
+
 #### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
 
 ---
