@@ -22,10 +22,14 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 ---
 ### Skateboard Assignment
 
-#### Description - a clear description of what you did (what were the goals of the assignment?)
-#### Evidence - embedded Arduino code or working link to Onshape document
-#### Image - a picture of your circuit/TinkerCAD wiring diagram or 3D CAD model
+The goal of this assignment was to make a skatboard, here is what came out in the end:
+
+[Link to Skateboard document](https://cvilleschools.onshape.com/documents/27c1c1b586dc9e6ce3a2a4c8/w/9f16282c7dcda26a6fc0eb49/e/b9d4721dda1e12ac3c837984) <!-- Evidence -->
+
+<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(3).gif" width="450" height="300"> <!-- Image/Gif -->
+
 #### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+
 ---
 ### Lego Brick Assignemnt
 
