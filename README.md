@@ -11,9 +11,9 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 
 #### I made a swing arm which was the goal of the assignment, check it out:  <!-- Description -->
 
-<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(1).gif" width="450" height="300"> <!-- Image/Gif of swing arm -->
-
 [Link to Swing Arm document](https://cvilleschools.onshape.com/documents/b5b79ab498b45f4fe471e702/w/507681a1060cbef3a9ea89b7/e/74129f16e61cde58a93b0ea5) <!-- Evidence -->
+
+<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(1).gif" width="450" height="300"> <!-- Image/Gif of swing arm -->
 
 *Gif of the swing arm Mr. Helmstetter made inside of my document*
 
@@ -35,6 +35,7 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 ### Lego Brick Assignemnt
 
 #### I made a lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
+
 [Link to Lego Duck document](https://cvilleschools.onshape.com/documents/9d674e96362e6ca97c43ff79/w/88e3768b8f68da64645b8a1a/e/799fcab366cc0faddc2d6eab) <!-- Evidence -->
 
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ScreenshotOfLegoDuckDrawingSheetV1.png" width="300" height="250"> <!-- Image/Gif --><img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(2).gif" width="400" height="250"> <!-- Image/Gif -->
