@@ -1,10 +1,9 @@
 # Engineering Notebook Engineering 3 - (CAD-Onshape)
 My Engineering notebook for Engineering 3. Specifically for my CAD work in Onshape.
 
- <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 
 ## Table of Contents
-* [CAD Test Part 1 - Swing Arm (!IGNORE THIS!)](#cad-test-part-1---swing-arm)
+* [CAD Test Part 1 - Swing Arm (!IGNORE THIS!)](#cad-test-part-1---swing-arm)  <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 * [Skateboard Assignment](#skateboard-assignment)
 * [Lego Brick Assignemnt](#lego-brick-assignemnt)
 ---
@@ -22,7 +21,7 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 ---
 ### Skateboard Assignment
 
-The goal of this assignment was to make a skatboard, here is what came out in the end:
+The goal of this assignment was to make a skatboard, here is what came out in the end: ( !Spoiler, a skateboard! ) <!-- Description -->
 
 [Link to Skateboard document](https://cvilleschools.onshape.com/documents/27c1c1b586dc9e6ce3a2a4c8/w/9f16282c7dcda26a6fc0eb49/e/b9d4721dda1e12ac3c837984) <!-- Evidence -->
 
