@@ -10,13 +10,14 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 ---
 ### CAD Test Part 1 - Swing Arm
 
-#### Description - a clear description of what you did (what were the goals of the assignment?)
-#### Evidence - embedded Arduino code or working link to Onshape document
-#### Image - 
-<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(1).gif" width="450" height="300">
-*Gif of the swing arm Mr . Helmstetter made inside of my document*
+#### I made a swing arm which was the goal of the assignment, check it out!  <!-- Description -->
+[Link to Swing Arm document](https://cvilleschools.onshape.com/documents/b5b79ab498b45f4fe471e702/w/507681a1060cbef3a9ea89b7/e/74129f16e61cde58a93b0ea5) <!-- Evidence -->
 
-#### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(1).gif" width="450" height="300"> <!-- Image/Gif of swing arm -->
+
+*Gif of the swing arm Mr. Helmstetter made inside of my document*
+
+##### I went through the assignment to create a swing arm, but ran into many challenges. One of these challenges being how to use variables. I learned some new things along the way though, mostly contraints like Parrallel and Perpendicular. Mr. Helmstetter re-made a swing arm to show me, and the people around me, how to better make the swing arm. This was really helpful, even if I only understood half the thing he was saying. <!-- Reflection -->
 ---
 ### Designing the Deck
 
