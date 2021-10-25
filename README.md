@@ -29,10 +29,12 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 ---
 ### Lego Brick Assignemnt
 
-#### Description - a clear description of what you did (what were the goals of the assignment?)
-#### Evidence - embedded Arduino code or working link to Onshape document
-#### Image - a picture of your circuit/TinkerCAD wiring diagram or 3D CAD model
+#### I made a lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
+[Link to Lego Duck document](https://cvilleschools.onshape.com/documents/9d674e96362e6ca97c43ff79/w/88e3768b8f68da64645b8a1a/e/799fcab366cc0faddc2d6eab) <!-- Evidence -->
+
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ScreenshotOfLegoDuckDrawingSheetV1.png" width="300" height="250"> <!-- Image/Gif --><img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(2).gif" width="400" height="250"> <!-- Image/Gif -->
+
+*Image of how to make the duck and a gif of it*
 
 #### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
 
