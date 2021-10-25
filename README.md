@@ -38,7 +38,7 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 ---
 ## Lego Brick Assignemnt
 
-#### I made a lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
+#### I made a bunch of lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
 
 [Link to Lego Duck document](https://cvilleschools.onshape.com/documents/9d674e96362e6ca97c43ff79/w/88e3768b8f68da64645b8a1a/e/799fcab366cc0faddc2d6eab) <!-- Evidence -->
 
