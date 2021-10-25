@@ -17,6 +17,29 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 #### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
 ---
 
+
+
+
+
+
+
+
+
+fhughfujegfujeg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 2.1 - Designing
 
 #### Description - a clear description of what you did (what were the goals of the assignment?)
