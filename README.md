@@ -2,12 +2,12 @@
 My Engineering notebook for Engineering 3. Specifically for my CAD work in Onshape.
 
 
-## Table of Contents
+# Table of Contents
 * [CAD Test Part 1 - Swing Arm (!IGNORE THIS!)](#cad-test-part-1---swing-arm)  <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 * [Skateboard Assignment](#skateboard-assignment)
 * [Lego Brick Assignemnt](#lego-brick-assignemnt)
 ---
-### CAD Test Part 1 - Swing Arm
+## CAD Test Part 1 - Swing Arm
 
 #### I made a swing arm which was the goal of the assignment, check it out:  <!-- Description -->
 
@@ -17,9 +17,12 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 
 *Gif of the swing arm Mr. Helmstetter made inside of my document*
 
+
+### Reflection of the assignment:
+
 ##### I went through the assignment to create a swing arm, but ran into many challenges. One of these challenges being how to use variables. I learned some new things along the way though, mostly contraints like Parrallel and Perpendicular. Mr. Helmstetter re-made a swing arm to show me, and the people around me, how to better make the swing arm. This was really helpful, even if I only understood half the thing he was saying. <!-- Reflection -->
 ---
-### Skateboard Assignment
+## Skateboard Assignment
 
 The goal of this assignment was to make a skatboard, here is what came out in the end: ( !Spoiler, a skateboard! ) <!-- Description -->
 
@@ -29,10 +32,11 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 *Gif of the skateboard I made*
 
-#### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+
+### Reflection of the assignment: - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
 
 ---
-### Lego Brick Assignemnt
+## Lego Brick Assignemnt
 
 #### I made a lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
 
@@ -42,6 +46,7 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 *Image of how to make the duck and a gif of it*
 
-#### Reflection - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+
+### Reflection of the assignment: - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
 
 
