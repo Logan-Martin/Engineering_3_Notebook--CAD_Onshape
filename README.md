@@ -1,7 +1,7 @@
 # Engineering Notebook Engineering 3 - (CAD-Onshape)
 My Engineering notebook for Engineering 3. Specifically for my CAD work in Onshape.
 
- <!-- Make sure to use all lowercase in the blue part and don't use the # sign -->
+ <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 
 ## Table of Contents
 * [CAD Test Part 1 - Swing Arm](#cad-test-part-1---swing-arm)
