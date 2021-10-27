@@ -56,4 +56,4 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 ## Final statment:
 
-#### I feel like the assignment itself, if you are going this in the same engineering class as me, does a great job of teaching you how to make the stuff it tells you to. Should you need help, you can find stuff on google or check out the "Instruction" part of every document I have linked.
+#### I feel like the assignment itself, if you are going this in the same engineering class as me, does a great job of teaching you how to make the stuff it tells you to. Should you need help, you can find stuff on google or check out the "Instruction" part of every ( except the swing arm ) document I have linked.
