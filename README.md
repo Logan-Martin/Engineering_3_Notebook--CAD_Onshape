@@ -54,3 +54,6 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 ##### The process of learning through the small videos was helpful as most times I question if I am doing something in the intented way. The snapping of the bricks was by far the best thing out of all of this. Just putting something together like that feels really cool and makes you feel proud of your work, even if it seems small to others.
 
 
+## Final statment:
+
+#### I feel like the assignment itself does a great job of teaching you how to make the stuff it tells you to. I recommend if you get stuck on a part while trying to replicate it to either google it or check out the "Instruction" part of the document. 
