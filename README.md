@@ -26,7 +26,7 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 
 The goal of this assignment was to make a skatboard, here is what came out in the end: ( !Spoiler, a skateboard! ) <!-- Description -->
 
-[Link to Skateboard document](https://cvilleschools.onshape.com/documents/27c1c1b586dc9e6ce3a2a4c8/w/9f16282c7dcda26a6fc0eb49/e/b9d4721dda1e12ac3c837984) <!-- Evidence -->
+[Link to Skateboard document](https://cvilleschools.onshape.com/documents/27c1c1b586dc9e6ce3a2a4c8/w/9f16282c7dcda26a6fc0eb49/e/b9d4721dda1e12ac3c837984?renderMode=0&uiState=617953319e1b22008cc5724e) <!-- Evidence -->
 
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(3).gif" width="450" height="300"> <!-- Image/Gif -->
 
