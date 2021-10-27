@@ -56,4 +56,4 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 ## Final statment:
 
-#### I feel like the assignment itself does a great job of teaching you how to make the stuff it tells you to. I recommend if you get stuck on a part while trying to replicate it to either google it or check out the "Instruction" part of the document. 
+#### I feel like the assignment itself does a great job of teaching you how to make the stuff it tells you to. I recommend if you get stuck on a part while trying to replicate it to either google it or check out the "Instruction" part of the document. (The videos along with the text should help you.)
