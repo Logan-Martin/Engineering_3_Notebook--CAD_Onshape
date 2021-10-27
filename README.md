@@ -11,7 +11,7 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 
 #### I made a swing arm which was the goal of the assignment, check it out:  <!-- Description -->
 
-[Link to Swing Arm document](https://cvilleschools.onshape.com/documents/b5b79ab498b45f4fe471e702/w/507681a1060cbef3a9ea89b7/e/74129f16e61cde58a93b0ea5renderMode=0&uiState=617952f6e5515f3e56363f86) <!-- Evidence -->
+[Link to Swing Arm document](https://cvilleschools.onshape.com/documents/b5b79ab498b45f4fe471e702/w/507681a1060cbef3a9ea89b7/e/9c4e67375e646be963e0cce1) <!-- Evidence -->
 
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(1).gif" width="450" height="300"> <!-- Image/Gif of swing arm -->
 
