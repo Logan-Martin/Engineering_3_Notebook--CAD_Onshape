@@ -33,7 +33,7 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 *Gif of the skateboard I made*
 
 
-### Reflection of the assignment: - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+### Reflection of the assignment: - In this assignment I learned many things, but one thing I found really cool is replicate. This allows you to basically multiply something on an axis, which is basically magic for me. I struggled on how to make the truck baseplate and broke it many times. Eventually I got it to where it needed to be. I also struggled on how to get a logo on the board. I got one on there, but it is just a picture and not actually extruded into the board.
 
 ---
 ## Lego Brick Assignemnt
@@ -47,6 +47,6 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 *Image of how to make the duck and a gif of it*
 
 
-### Reflection of the assignment: - some thoughts on what you learned and the process of learning it (don't skimp on this section!)
+### Reflection of the assignment: - The process of learning through the small videos was helpful as most times I question if I am doing something in the intented way. The snapping of the bricks was by far the best thing out of all of this. Just putting something together like that feels really cool and makes you feel proud of your work, even if it seems small to others.
 
 
