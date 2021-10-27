@@ -42,7 +42,7 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 #### I made a bunch of lego bricks inside of OnShape and used them to make a duck: <!-- Description -->
 
-[Link to Lego Duck document](https://cvilleschools.onshape.com/documents/9d674e96362e6ca97c43ff79/w/88e3768b8f68da64645b8a1a/e/799fcab366cc0faddc2d6eab) <!-- Evidence -->
+[Link to Lego Duck document](https://cvilleschools.onshape.com/documents/9d674e96362e6ca97c43ff79/w/88e3768b8f68da64645b8a1a/e/799fcab366cc0faddc2d6eab?renderMode=0&uiState=61795417685d47127443feb2) <!-- Evidence -->
 
 <img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ScreenshotOfLegoDuckDrawingSheetV1.png" width="300" height="250"> <!-- Image/Gif --><img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ezgif.com-gif-maker%20(2).gif" width="400" height="250"> <!-- Image/Gif -->
 
