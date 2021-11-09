@@ -6,6 +6,7 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 * [CAD Test Part 1 - Swing Arm (!IGNORE THIS!)](#cad-test-part-1---swing-arm)  <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 * [Skateboard Assignment](#skateboard-assignment)
 * [Lego Brick Assignemnt](#lego-brick-assignemnt)
+* [Multi-Tool Protractor](#multi-tool-protractor)
 ---
 ## CAD Test Part 1 - Swing Arm
 
@@ -54,6 +55,16 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 ##### The process of learning through the small videos was helpful as most times I question if I am doing something in the intented way. The snapping of the bricks was by far the best thing out of all of this. Just putting something together like that feels really cool and makes you feel proud of your work, even if it seems small to others.
 
 
-## Final statment:
+### Multi-Tool Protractor:
 
-#### I feel like the assignment itself, if you are going this in the same engineering class as me, does a great job of teaching you how to make the stuff it tells you to. Should you need help, you can find stuff on google or check out the "Instruction" part of every ( except the swing arm ) document I have linked.
+#### I made a Procractor/Multi-tool: <!-- Description -->
+
+[Link to multi-tool document](https://cvilleschools.onshape.com/documents/ff7f6caf0bcf41533711b834/w/a7af9ec053395e3bc63503aa/e/6995d31e881be97a086df953?renderMode=0&uiState=618a93728b415a6d0f150818) <!-- Evidence -->
+
+<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ScreenshotOfLegoDuckDrawingSheetV1.png" width="300" height="250"> <!-- Image/Gif -->
+*Image of how to make the duck and a gif of it*
+
+
+### Reflection of the assignment:
+I found this assignment easier compared to the previous assignments and I found that linear patterns helped a bit. 
+
