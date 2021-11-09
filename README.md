@@ -61,8 +61,9 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 [Link to multi-tool document](https://cvilleschools.onshape.com/documents/ff7f6caf0bcf41533711b834/w/a7af9ec053395e3bc63503aa/e/6995d31e881be97a086df953?renderMode=0&uiState=618a93728b415a6d0f150818) <!-- Evidence -->
 
-<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/ScreenshotOfLegoDuckDrawingSheetV1.png" width="300" height="250"> <!-- Image/Gif -->
-*Image of how to make the duck and a gif of it*
+<img src="https://github.com/Logan-Martin/Engineering-Notebook-Eng3-CAD-Onshape/blob/main/Multi-ToolImageV1ForEngineering.jpg" width="300" height="300"> <!-- Image/Gif -->
+
+*Image of the multi-tool*
 
 
 ### Reflection of the assignment:
