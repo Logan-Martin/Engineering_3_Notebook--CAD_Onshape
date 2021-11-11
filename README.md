@@ -67,5 +67,5 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 
 
 ### Reflection of the assignment:
-I found this assignment easier compared to the previous assignments and I found that linear patterns helped a bit. 
+I found this assignment easier compared to the previous assignments and I found that linear patterns helped a bit. There was nothing that was "challenging" apart from me mistyping a measurement. 
 
