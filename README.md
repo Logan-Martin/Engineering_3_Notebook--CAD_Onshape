@@ -6,7 +6,7 @@ My Engineering notebook for Engineering 3. Specifically for my CAD work in Onsha
 * [CAD Test Part 1 - Swing Arm (!IGNORE THIS!)](#cad-test-part-1---swing-arm)  <!-- Make sure to use all lowercase in the blue part and don't use: #, . -->
 * [Skateboard Assignment](#skateboard-assignment)
 * [Lego Brick Assignemnt](#lego-brick-assignemnt)
-* [Multi-Tool Protractor](#multi-tool-protractor)
+* [Multi-Tool](#multi-tool)
 ---
 ## CAD Test Part 1 - Swing Arm
 
@@ -55,9 +55,9 @@ The goal of this assignment was to make a skatboard, here is what came out in th
 ##### The process of learning through the small videos was helpful as most times I question if I am doing something in the intented way. The snapping of the bricks was by far the best thing out of all of this. Just putting something together like that feels really cool and makes you feel proud of your work, even if it seems small to others.
 ---
 
-### Multi-Tool Protractor:
+### Multi-Tool:
 
-#### I made a Procractor/Multi-tool: <!-- Description -->
+#### I made a Multi-tool: <!-- Description -->
 
 [Link to multi-tool document](https://cvilleschools.onshape.com/documents/ff7f6caf0bcf41533711b834/w/a7af9ec053395e3bc63503aa/e/6995d31e881be97a086df953?renderMode=0&uiState=618a93728b415a6d0f150818) <!-- Evidence -->
 
